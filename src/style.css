@@ -1,0 +1,31 @@
+.container{
+    background-color: #141516;
+    height: 800px;
+    color: #CED4E2;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    padding-top: 15%;
+}
+.Btn1{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.Btn2{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.counter{
+    border: 1px solid  #CED4E2;
+    width: 500px;
+    margin-left:30%;
+    border-radius: 30px;
+    padding: 10px;
+    
+  
+}
